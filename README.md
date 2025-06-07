@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rayid
 - 👀 I’m interested in Buidling stuff
-- 🌱 I’m currently learning Next js
+- 🌱 I’m currently learning Cybersecurity
 - 👯 I’m looking to collaborate on any web project
 - 📫 You can reach me on rayidashrafdar@gmail.com
